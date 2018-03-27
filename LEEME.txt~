@@ -1,0 +1,29 @@
+
+		 - 3 parametros
+3 constructores  - 0 parametros (01/01/2018)
+		 - 1 parametro Date
+
+
+3 getters
+3 setters
+
+8 métodos "isSame" (4 con if, 4 sin)
+
+
+**Include in Date class:
+-getMonthName
+-isDayRight(int dia): dada la fecha actual, ver si al cambiarla es correcta.
+-setSeasonName
+
+**In the Date class write methods to:
+-getMonthsLeft
+-toString (ya hecho)
+-getDaysLeftOfMonth
+-getMonthsSameDays
+-daysPast
+-getRandomTriesEqualDate1 (con while)
+-getRandomTriesEqualDate2 (con do-while)
+
+-dayOfWeek
+
+
